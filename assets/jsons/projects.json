@@ -1,0 +1,121 @@
+{
+  "cards": [
+    {
+      "title": "NOBORI TORRE 1,2 V 3",
+      "subtitle": "REDES HIDROSANITARIAS - REDES CONTRA INCENDIOS",
+      "details": {
+        "direccion": "Galicia, Pereira, Risaralda",
+        "contratante": "Asul constructora s.a.s",
+        "fecha": "julio 2019"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/nobori-v1.jpg",
+        "circular": "assets/images/projects/nobori-v2.jpg"
+      }
+    },
+    {
+      "title": "MUKAVA DEL VALLE ETP 1",
+      "subtitle": "RED HIDROSANITARIA - ACUEDUCTO Y ALCANTARILLADO",
+      "details": {
+        "direccion": "Via Cerritos Pereira, Risaralda",
+        "contratante": "Asul constructora s.a.s",
+        "fecha": "2018 - 2020"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/mukava-v1.png",
+        "circular": "assets/images/projects/mukava-v2.webp"
+      }
+    },
+    {
+      "title": "GALATEA",
+      "subtitle": "REDES HIDROSANITARIAS - REDES CONTRA INCENDIOS ACUEDUCTO Y ALCANTARILLADO",
+      "details": {
+        "direccion": "Dosquebradas, Risaralda",
+        "contratante": "Q-bica constructora s.a.s",
+        "fecha": "2014 - 2017"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/logo-v2.png",
+        "circular": "assets/images/projects/logo-v2.png"
+      }
+    },
+    {
+      "title": "MIRADOR DE LA PRADERA",
+      "subtitle": "REDES HIDROSANITARIAS - REDES CONTRA INCENDIOS - ACUEDUCTO EN POLIETILENO Y URBANISMO",
+      "details": {
+        "direccion": "La Pradera Dosquebradas, Risaralda",
+        "contratante": "Q-bica constructora s.a.s",
+        "fecha": "2018 - 2021"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/logo-v2.png",
+        "circular": "assets/images/projects/logo-v2.png"
+      }
+    },
+    {
+      "title": "BOREAL TORRE 3,4,5, Y 9",
+      "subtitle": "REDES HIDROSANITARIAS - REDES CONTRA INCENDIOS",
+      "details": {
+        "direccion": "Japón, Dosquebradas, Risaralda",
+        "contratante": "Asul constructora s.a.s",
+        "fecha": "2019 - 2021"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/logo-v2.png",
+        "circular": "assets/images/projects/logo-v2.png"
+      }
+    },
+    {
+      "title": "MONTEBONITO 5 Y 6",
+      "subtitle": "REDES HIDROSANITARIAS - REDES DE ACUEDUCTO EN POLIETILENO",
+      "details": {
+        "direccion": "Frayles Dosquebradas",
+        "contratante": "Asul constructora s.a.s",
+        "fecha": "2019 - 2021"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/logo-v2.png",
+        "circular": "assets/images/projects/logo-v2.png"
+      }
+    },
+    {
+      "title": "LA GIRALDA",
+      "subtitle": "REDES HIDROSANITARIAS - REDES CONTRA INCENDIOS - CONDUCCIÓN PRINCIPAL EN POLIETILENO 315mm",
+      "details": {
+        "direccion": "Frayles Dosquebradas, Risaralda",
+        "contratante": "Conisa Ramón H.",
+        "fecha": "2014 - 2015"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/logo-v2.png",
+        "circular": "assets/images/projects/logo-v2.png"
+      }
+    },
+    {
+      "title": "CAMPIÑAS DE ALCALA",
+      "subtitle": "REDES HIDROSANITARIAS",
+      "details": {
+        "direccion": "Vía condina Pereira, Risaralda",
+        "contratante": "CG constructora s.a.s",
+        "fecha": "2017"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/logo-v2.png",
+        "circular": "assets/images/projects/logo-v2.png"
+      }
+    },
+    {
+      "title": "EL PORVENIR MZ 21a y 52b",
+      "subtitle": "REDES HIDROSANITARIAS",
+      "details": {
+        "direccion": "Bogotá",
+        "contratante": "CG constructora",
+        "fecha": "2018 - 2019"
+      },
+      "images": {
+        "rectangular": "assets/images/projects/logo-v2.png",
+        "circular": "assets/images/projects/logo-v2.png"
+      }
+    }
+  ]
+}
